@@ -21,7 +21,13 @@ cobalt2 theme for [kitty-terminal](https://sw.kovidgoyal.net/kitty/)
 
 ## Installation
 
-need to put
+Just run this command in your terminal
+
+```bash
+curl https://raw.githubusercontent.com/lalitmee/kitty-cobalt2/master/install.sh | bash
+```
+
+ENJOY! 🙂
 
 ## Acknowledgements
 
